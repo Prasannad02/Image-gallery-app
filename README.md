@@ -1,7 +1,7 @@
 
 ## Title
 
- Form Validation
+ Image Gallery
 ## Description 
 
  Prasanna Image Gallery is a responsive web page that showcases a collection of images. It features a scrollable gallery with navigation buttons to navigate through the images. The gallery layout is designed using CSS grid, providing a clean and organized display. The images have a grayscale effect by default and transform to full color and slightly larger size on hover. Users can scroll horizontally using the mouse wheel or click the back and next buttons to navigate through the images.
@@ -18,7 +18,7 @@
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Image-Gallery/
+    https://prasannad02.github.io/Image-gallery-app/
 ## Getting Started:
 
 To use the Prasanna Image Gallery web page, follow these steps:
